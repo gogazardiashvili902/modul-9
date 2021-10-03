@@ -1,0 +1,56 @@
+body {
+    background-image:url(https://clipart-db.ru/file_content/rastr/background_024.jpg);
+    }
+ .flex-conteiner, li {
+        display:inline-block;
+        margin-left:10px;
+        margin-right: 20px;
+        margin-top: 80px;
+
+  }
+
+ .word {
+    list-style-type: none;
+   padding: 10px;
+   background-color:rgb(248 253 254/88  %);
+}
+
+.text {
+    font-size: 45px;
+    text-decoration:underline;
+    padding-bottom: 20px;
+    color:rgb(8,8,8  );
+    text-align:center; 
+ }
+
+
+ p {
+  font-weight:bold;
+    text-align: center;
+    color: #0a0a0a;
+  }
+
+
+ .flex{
+    font-size: 20px;
+    display:flex;
+    text-align: center;
+    color:black;
+    }
+
+ .dilay{
+        padding-top:100px;
+        text-align: center;
+        color:black;
+        }
+ .text-block {
+        font-size: 25px;
+      padding-bottom:20px;
+      padding-top: 20px;
+
+    }
+
+    a {
+      color:#3ac753;
+      font-weight:bold;
+    } 
